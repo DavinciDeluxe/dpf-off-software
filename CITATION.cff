@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Automated DPF / FAP / OPF / GPF Calibration Software — Cars, 24V Trucks & Tractors (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/dpf-off-software"
+repository-code: "https://github.com/DavinciDeluxe/dpf-off-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"

@@ -1,7 +1,7 @@
 # Automated DPF / FAP / GPF / OPF Off Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5455%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5414%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 **DaVinci Deluxe Cloud Edition** provides automated, byte-exact **DPF Off (Diesel Particulate Filter), FAP Off, and GPF/OPF Off** solutions on **100% virgin original ECU files** across Cars, Light Vans, 24V Heavy-Duty Trucks, Agricultural Tractors, and Marine Diesels.
 
